@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kursi modern 1
+* source:	https://sketchfab.com/3d-models/kursi-modern-1-6ef73d4d08054992a4877e8d5b7a911b
+* author:	IF_AR (https://sketchfab.com/ilhamfahmiamrirosada)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kursi modern 1" (https://sketchfab.com/3d-models/kursi-modern-1-6ef73d4d08054992a4877e8d5b7a911b) by IF_AR (https://sketchfab.com/ilhamfahmiamrirosada) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

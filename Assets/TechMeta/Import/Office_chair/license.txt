@@ -1,0 +1,11 @@
+Model Information:
+* title:	Office chair
+* source:	https://sketchfab.com/3d-models/office-chair-ba089ef444f44adbbf324f703c5b3358
+* author:	nemo81 (https://sketchfab.com/nemo81)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Office chair" (https://sketchfab.com/3d-models/office-chair-ba089ef444f44adbbf324f703c5b3358) by nemo81 (https://sketchfab.com/nemo81) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
